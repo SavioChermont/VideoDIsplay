@@ -1,12 +1,14 @@
 <h2> #PROJECT | #PROJETO </h2>
 <p>
 ---------------------------------<strong>ENGLISH</strong>----------------------------------------<br/>
-This is a little project that search images according the text that user type on input. <br/>
+This is a little project that search videos on Youtube according the text that user type on input. <br/>
+ I limited the tho show just 5 for term searched.
 </p>
 
 <p>
 ---------------------------------<strong>PORTUGUESE</strong>----------------------------------------<br/>
-Esse é um pequeno projeto que busca imagens de acordo com o texto que o usuário digita no input.
+Esse é um pequeno projeto que busca vídeos no Youtube de acordo com o texto que o usuário digita no input. <br/>
+Limitei para apenas 5 vídeos por termo pesquisado.
 </p>
 
 <h2> #TECHNOLOGIES | #TECNOLOGIAS </h2>
