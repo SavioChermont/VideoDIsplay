@@ -8,7 +8,7 @@ const VideoList = ({video, onVideoSelected}) => {
             className="video-item item"
         >
 
-            <img className="ui image" src={video.snippet.thumbnails.medium.url} alt="thumb"/>
+            <img className="ui image" src={video.snippet.thumbnails.medium.url} alt={video.snippet.title}/>
             <div className="content">
                 <div className="header"> 
                     {video.snippet.title} 
