@@ -1,0 +1,11 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+}
+
+body{
+    background-color: lightgreen;
+}
+.ui.container{
+    background-color: white;
+}

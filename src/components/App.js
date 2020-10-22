@@ -3,6 +3,7 @@ import SearchBar from './SearchBar.js';
 import VideoList from './VideoList.js';
 import Youtube from '../api/youtube.js'
 import VideoDetail from './VideoDetail.js';
+import "../css/App.css";
 
 class App extends React.Component {
     state = {  videos: [], selectedVideo: null };
